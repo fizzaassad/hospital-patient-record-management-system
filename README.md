@@ -87,7 +87,7 @@ You can run this project using Visual Studio Code and the .NET CLI, without need
 
 1. **Clone the Repository**
    ```sh
-   https://github.com/httpsmojojojo/hospital-record-management-system.git
+   https://github.com/fizzaassad/hospital-record-management-system.git
    ```
 
 2. **Open the Project in VS Code**
